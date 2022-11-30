@@ -6,7 +6,7 @@
 
 ### What i'm trying to do ?
 
-> Well, basically this: Serve static files (like a static html page that was genereted by a automated tool) only to users authenticated through their microsoft account.
+> Serve static files (like a static html page that was genereted by a automated tool) only to users authenticated through their microsoft account.
 
 ### Why do it that way ?
 

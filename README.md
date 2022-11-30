@@ -1,9 +1,6 @@
 
 # Authenticating Static Files.
 
-![GitHub repo size](https://img.shields.io/github/repo-size/GuilhermeFM/net6-web-api-static-file-authentication?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/GuilhermeFM/net6-web-api-static-file-authentication?style=for-the-badge)
-
 ### What i'm trying to do ?
 
 > Serve static files (like a static html page that was genereted by a automated tool) only to users authenticated through their microsoft account.
